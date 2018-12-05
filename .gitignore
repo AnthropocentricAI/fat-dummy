@@ -1,0 +1,10 @@
+.DS_Store
+
+*.ipynb_checkpoints
+
+FAT_dummy.egg-info/
+*.pyc
+
+*__pycache__
+.pytest_cache
+.coverage
